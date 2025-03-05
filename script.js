@@ -109,11 +109,13 @@
 /*___________________________________________________________________*/
 // ! Task 8
 // Foydalanuvchi 2 marta raqam kiritsin, 2-raqam 1-raqamning necha foiziga teng ekanligi consoleda chiqarilsin
-let num1 = +prompt('1-raqam: ');
-let num2 = +prompt('2-raqam: ');
-alert ((num1 / num2) * 100);
+// let num1 = +prompt('1-raqam: ');
+// let num2 = +prompt('2-raqam: ');
+// alert (num2 / num1) * 100;
 
 /*___________________________________________________________________*/
 /*___________________________________________________________________*/
 // ! Task 9
 // Foydalanuvchi raqam kiritsin. kiritilgan raqamni minut deb tasavvur qiling va kiritigan minutni sekundga aylantiring
+// let num = +prompt('1-raqam: ');
+// alert(`natija ${num * 60}`)
