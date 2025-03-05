@@ -99,12 +99,19 @@
 /*___________________________________________________________________*/
 // ! Task 7
 // Foydalanuvchi dollar qiymatini kiritsin. Kiritgan qiiymatni so'mga o'girib consoleda chiqaring
+// let usd = +prompt('dollar qiymatini kiriting: ');
+// let uzs = 12_897;
+// let nat = ( "natija" , usd * uzs)
+// alert(nat)
 
 
 /*___________________________________________________________________*/
 /*___________________________________________________________________*/
 // ! Task 8
 // Foydalanuvchi 2 marta raqam kiritsin, 2-raqam 1-raqamning necha foiziga teng ekanligi consoleda chiqarilsin
+let num1 = +prompt('1-raqam: ');
+let num2 = +prompt('2-raqam: ');
+alert ((num1 / num2) * 100);
 
 /*___________________________________________________________________*/
 /*___________________________________________________________________*/
