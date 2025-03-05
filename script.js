@@ -2,7 +2,7 @@
 // Foydalanuvchidan parolni ikki marta kiritishni soâ€˜rang. Agar ikkala parol bir xil boâ€˜lsa, true, aks holda false degan xabar chiqsin.
 /*  variyant 1 */
 
-// let password = prompt('parolingizni kiritng...');
+//   let password = prompt('parolingizni kiritng...');
 // let password_again = prompt('parolingizni qayta kiritng...');
 
 // if (password === password_again) {
@@ -86,12 +86,12 @@
 
 // ! Task 6
 // Foydalanuvchi 2 marta raqam kiritsin. 1-raqamni kubini, 2-raqamni kvadratiga bo'ling va consoleda chiqaring
-let num1 = prompt('1-raqam... ');
-let num2 = prompt('2-raqam... ');
-console.log(`1-raqamni kubi ${(num1 ** 3)}`);
-console.log(`2-raqamni kvadrati${(num2 ** 2)}`);
+// let num1 = prompt('1-raqam... ');
+// let num2 = prompt('2-raqam... ');
+// console.log(`1-raqamni kubi ${(num1 ** 3)}`);
+// console.log(`2-raqamni kvadrati${(num2 ** 2)}`);
 
-console.log(`bolish ${(num1 ** 3) / (num2 ** 2)}`);
+// console.log(`bolish ${(num1 ** 3) / (num2 ** 2)}`);
 
 
 
@@ -99,6 +99,7 @@ console.log(`bolish ${(num1 ** 3) / (num2 ** 2)}`);
 /*___________________________________________________________________*/
 // ! Task 7
 // Foydalanuvchi dollar qiymatini kiritsin. Kiritgan qiiymatni so'mga o'girib consoleda chiqaring
+
 
 /*___________________________________________________________________*/
 /*___________________________________________________________________*/
@@ -109,8 +110,3 @@ console.log(`bolish ${(num1 ** 3) / (num2 ** 2)}`);
 /*___________________________________________________________________*/
 // ! Task 9
 // Foydalanuvchi raqam kiritsin. kiritilgan raqamni minut deb tasavvur qiling va kiritigan minutni sekundga aylantiring
-
-/*___________________________________________________________________*/
-/*___________________________________________________________________*/
-// ! Task 10
-// Tepadagi 9 ta taskni bajaring keling)
